@@ -38,6 +38,9 @@
 div.field {
     width: 285px;
     padding-bottom: 5px;
+}div.image {
+    width: 270px;
+    padding-bottom: 5px;
 }
 div.field label {
     display: block;
@@ -57,6 +60,9 @@ div.field label {
 }
 .formElement{
     padding : 5px 15px;
+}
+.img{
+    border: 1px solid #555;
 }
 
 
